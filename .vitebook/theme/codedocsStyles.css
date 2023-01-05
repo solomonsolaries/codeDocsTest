@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Lionel";
+    src: local("LionelStreamRegular"), url('./Lionel.ttf') format("truetype");
+}
+
+.sidebar-link__text{
+    font-family: 'Lionel';
+}
+
+.sidebar-item__menu-button__text{
+    font-family: 'Lionel';
+}   
